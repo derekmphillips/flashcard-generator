@@ -1,0 +1,22 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "This is a flashcard generator.",
+  "main": "generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derekmphillips/flashcard-Generator.git"
+  },
+  "author": "Derek Phillips",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derekmphillips/flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/derekmphillips/flashcard-Generator",
+  "dependencies": {
+    "inquirer": "^2.0.0"
+  }
+}
